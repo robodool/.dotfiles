@@ -1,4 +1,5 @@
 *
+~/.config/*
 !~/.config/nvim
 !~/.config/awesome
 !~/.config/polybar
