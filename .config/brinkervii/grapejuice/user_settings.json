@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "hardware_profile": {
+    "graphics_id": "26c13ae8ffc4ead97efb50273055a1898960ada9ba66d9159b2e81e04b8ce405",
+    "gpu_vendor_id": 0,
+    "gpu_pci_id": "00:02.0",
+    "gpu_can_do_vulkan": false,
+    "provider_index": 0,
+    "provider_name": "Intel",
+    "should_prime": false,
+    "use_mesa_gl_override": false,
+    "preferred_roblox_renderer_string": "OpenGL",
+    "is_multi_gpu": false,
+    "version": 2
+  },
+  "show_fast_flag_warning": false,
+  "release_channel": "master",
+  "disable_updates": false,
+  "try_profiling_hardware": true,
+  "default_wine_home": "",
+  "wineprefixes": [
+    {
+      "id": "1d0449e8-93eb-4df7-9f11-f69c70c78bb6",
+      "priority": 0,
+      "name_on_disk": "studio",
+      "display_name": "Studio",
+      "wine_home": "",
+      "dll_overrides": "dxdiagn=;winemenubuilder.exe=",
+      "prime_offload_sink": -1,
+      "use_mesa_gl_override": false,
+      "enable_winedebug": true,
+      "winedebug_string": "'+synchronous'",
+      "roblox_renderer": "D3D11",
+      "env": {},
+      "hints": [
+        "studio"
+      ],
+      "fast_flags": {},
+      "third_party": {
+        "fps_unlocker": false,
+        "dxvk": false
+      },
+      "dxvk_overrides": [
+        "d3d11",
+        "d3d9",
+        "dxgi",
+        "d3d10core"
+      ]
+    }
+  ],
+  "unsupported_settings": {}
+}

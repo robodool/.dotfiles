@@ -1,0 +1,5 @@
+desmume:
+  runner_executable: /usr/bin/desmume-cli
+game:
+  main_file: /home/robodool/Downloads/5763_-_Plants_vs._Zombies_EUR_MULTi6_NDS-EXiMiUS.nds
+system: {}
