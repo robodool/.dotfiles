@@ -1,6 +1,0 @@
-{"type":"perf.renderingInfo.v2","msg":{"ctx_name":"scene_loaded_after_awake","ctx_scene":"SampleScene","ctx_mode":"scene_load_first_scene","target_frame_rate":60,"total_frames":0,"total_long_frames":0,"frames_since_reset":0,"long_frames_since_reset":0,"time_since_reset_dtms":0,"mean_dtms":0,"min_dtms":0,"max_dtms":0,"variance_dtms":0,"draw_calls":0,"batches":0,"frame_count_by_second":{},"ts":1689597758868}}
-{"type":"perf.renderingInfo.v2","msg":{"ctx_name":"change_active_scene","ctx_prev_scene":"null","ctx_new_scene":"SampleScene","target_frame_rate":60,"total_frames":0,"total_long_frames":0,"frames_since_reset":0,"long_frames_since_reset":0,"time_since_reset_dtms":0,"mean_dtms":0,"min_dtms":0,"max_dtms":0,"variance_dtms":0,"draw_calls":0,"batches":0,"frame_count_by_second":{},"ts":1689597758870}}
-{"type":"perf.sceneLoadingTime.v1","msg":{"ts":1689597758871,"scene_name":"SampleScene","scene_index":0,"background_time":646552978,"integrate_time":221992004,"ts_integrate_time":94230003,"total_time":2219435058}}
-{"type":"analytics.appRunning.v1","msg":{"ts":1689597820524,"duration":61,"local_time_offset":-28800000}}
-{"type":"analytics.appRunning.v1","msg":{"ts":1689597846053,"duration":87,"local_time_offset":-28800000}}
-(1){"type":"analytics.appStop.v1","msg":{"ts":1689597846054}}

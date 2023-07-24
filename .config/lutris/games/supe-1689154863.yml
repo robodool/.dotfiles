@@ -1,5 +1,0 @@
-game:
-  main_file: /home/robodool/ROMS/N64/Super_Mario_64.z64
-mupen64plus:
-  runner_executable: /usr/bin/mupen64plus
-system: {}
