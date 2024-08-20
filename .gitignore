@@ -1,9 +1,1 @@
-*
-~/.config/*
-!~/.config/nvim
-!~/.config/awesome
-!~/.config/polybar
-!~/.config/picom
-!~/.config/alacritty
-!.gitignore
-!.gitconfig
+
